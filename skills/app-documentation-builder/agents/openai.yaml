@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Documentation Builder"
+  short_description: "Create evidence-based app and developer documentation"
+  default_prompt: "Use $app-documentation-builder to create or update documentation for this app from the available source evidence."
